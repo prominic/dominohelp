@@ -33,7 +33,7 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: dominohelp.com website suggestion
+feedback_subject_line: dominohelp.com website feedback
 
 feedback_email: support@prominic.net
 # used as a contact email for the Feedback link in the top navigation bar

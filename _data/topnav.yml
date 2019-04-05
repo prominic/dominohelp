@@ -1,0 +1,61 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: GitHub
+      external_url: https://github.com/tomjoht/documentation-theme-jekyll
+    - title: Blogs
+      external_url: http://www.planetlotus.org
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+      
+    - title: Help
+      folderitems:
+
+        - title: OpenNTF Slack
+          external_url: https://slackin.openntf.org       
+        - title: XPages on Stack Overflow
+          external_url: https://stackoverflow.com/questions/tagged/xpages
+        - title: Domino on Stack Overflow
+          external_url: https://stackoverflow.com/questions/tagged/lotus-domino
+        - title: IBM Support Tickets
+          external_url: https://www.ibm.com/support/home/
+        - title: The Learning Company
+          external_url: http://www.tlcc.com    
+
+    - title: Code
+      folderitems:   
+
+      - title: OpenNTF
+        external_url: https://www.openntf.org
+      - title: XPages.Info
+        external_url: http://www.xpages.info
+      - title: Codestore
+        external_url: http://www.codestore.net  
+          
+    - title: Docs
+      folderitems:
+        - title: Get Started
+          url: /index.html
+        - title: Domino App Dev Wiki (archive)
+          external_url: https://www-10.lotus.com/ldd/ddwiki.nsf/
+        - title: Wikipedia
+          external_url: https://en.wikipedia.org/wiki/IBM_Notes
+          
+    - title: Hire
+      folderitems:
+          
+        - title: Penumbra Group
+          external_url: http://www.penumbragroup.com                    
+        - title: I Know Some Guys LLC
+          external_url: https://www.iknowsomeguys.com/
+
+#     - title: Books
+#       folderitems:
+#           
+#         - title: Amazon books...  redbooks...
+#           external_url: 

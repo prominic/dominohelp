@@ -13,6 +13,26 @@ topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
       
+    - title: APIs
+      folderitems:
+
+      - title: All @Functions A-Z
+        external_url: https://www.ibm.com/support/knowledgecenter/en/SSVRGU_10.0.1/basic/H_7_FORMULAS_FUNCTION_REFERENCE.html
+        output: web
+     
+      - title: All @Commands A-Z
+        external_url: https://www.ibm.com/support/knowledgecenter/en/SSVRGU_10.0.1/basic/H_8_FORMULAS_COMMAND_REFERENCE.html
+        output: web
+      
+      - title: Java/CORBA Classes A-Z  
+        external_url: https://www.ibm.com/support/knowledgecenter/en/SSVRGU_10.0.1/basic/H_10_NOTES_CLASSES_ATOZ_JAVA.html
+        output: web
+      
+      - title: Lotuscript Classes A-Z
+        external_url: https://www.ibm.com/support/knowledgecenter/en/SSVRGU_10.0.1/basic/H_4_LOTUSSCRIPT_NOTES_CLASSES_REFERENCE.html
+        output: web
+
+
     - title: Blogs
       folderitems:
 
@@ -30,12 +50,29 @@ topnav_dropdowns:
 
       - title: OpenNTF
         external_url: https://www.openntf.org
+      - title: OpenNTF on GitHub
+        external_url: https://github.com/OpenNTF
       - title: XPages.Info
         external_url: http://www.xpages.info
       - title: Codestore
         external_url: http://www.codestore.net  
           
-    - title: Docs
+
+    - title: Download
+      folderitems:   
+
+      - title: IBM Trials & Downloads
+        external_url: https://developer.ibm.com/collaboration/downloads-trials-code/
+      - title: Designer & Admin for Mac and Linux
+        external_url: http://domino4wine.com
+      - title: VirtualBox
+        external_url: https://www.virtualbox.org
+      - title: Vagrant Cloud
+        external_url: https://app.vagrantup.com/boxes/search
+
+
+
+    - title: Learn
       folderitems:
         - title: Get Started
           url: /index.html

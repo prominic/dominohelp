@@ -28,6 +28,11 @@ entries:
       output: web, pdf
       type: homepage
 
+#    - title: Contribute Content
+#      url: /contribute.html
+#      output: web, pdf
+#      type: 
+
 
   - title: Release Notes
     output: web
@@ -50,7 +55,7 @@ entries:
       output: web
       
 
-  - title: Domino Designer 10.0.1
+  - title: Designer 10.0.1
     output: web
     folderitems:
 
@@ -162,6 +167,65 @@ entries:
       external_url: https://www.amazon.com/IBM-Lotus-Domino-Application-Development/dp/1849682402/ref=cm_cr_arp_d_product_top?ie=UTF8
       output: web  
 
+    - title: Survival Guide for Admins
+      external_url: https://www.amazon.com/Survival-Guide-Lotus-Domino-Administrators-ebook/dp/B001UQO3VA/ref=sr_1_4?keywords=ibm+domino&qid=1554593293&s=gateway&sr=8-4
+      output: web
+
+
+  - title: Redbooks & Redpapers
+    output: web
+    folderitems:
+
+    - title: All Domino related
+      external_url: http://www.redbooks.ibm.com/redbooks.nsf/searchsite?SearchView&query=%22domino%22
+      output: web 
+
+    - title: Basic Developer's Handbook
+      external_url: http://www.redbooks.ibm.com/abstracts/sg246854.html?Open
+      output: web 
+
+
+  - title: Certification Tests
+    output: web
+    folderitems:
+
+    - title: Sys Admin 9.0
+      external_url: https://www.ibm.com/certify/cert?id=14003306               
+      output: web    
+
+    - title: App Dev 9.0
+      external_url: https://www.ibm.com/certify/cert?id=14003106
+      output: web
+
+    - title: Adv Sys Admin 9.0
+      external_url: https://www.ibm.com/certify/cert?id=14003406           
+      output: web  
+
+    - title: Adv App Dev 9.0
+      external_url: https://www.ibm.com/certify/cert?id=14003206
+      output: web
+
+
+  - title: Cetification Help
+    output: web
+    folderitems:
+
+    - title: PassGuide's Sys Admin 9.0
+      external_url: https://www.passguide.com/IBM-Certified-System-Administrator-Notes-and-Domino-9-0.html               
+      output: web
+
+    - title: PassGuide's App Dev 9.0
+      external_url: https://www.passguide.com/IBM-Certified-Application-Developer-Notes-and-Domino-9-0.html                
+      output: web
+
+    - title: PassGuide's Adv Sys Admin 9.0
+      external_url: https://www.passguide.com/IBM-Certified-Advanced-System-Administrator-Notes-and-Domino-9-0.html
+      output: web
+
+    - title: PassGuide's Adv App Dev 9.0
+      external_url: https://www.passguide.com/IBM-Certified-Advanced-Application-Developer-Notes-and-Domino-9-0.html
+      output: web
+
 
 
   - title: Hire Consultants
@@ -185,7 +249,25 @@ entries:
       output: web
 
 
-  - title: Move to the Cloud
+  - title: Conferences & Meetups
+    output: web
+    folderitems:
+
+    - title: MWLUG / Collabsphere
+      external_url: http://www.collabsphere.org/                  
+      output: web
+
+    - title: Engage
+      external_url: https://engage.ug
+      output: web
+
+    - title: IBM Think
+      external_url: https://www.ibm.com/events/think/
+      output: web
+
+
+
+  - title: Move to Cloud / Hosting
     output: web
     folderitems:
 
@@ -193,21 +275,34 @@ entries:
       external_url: https://www.Prominic.NET                    
       output: web
 
+    - title: IBM Domino Apps on Cloud
+      external_url: https://www.ibm.com/us-en/marketplace/domino-applications-on-cloud
+      output: web
+
+    - title: BlueSky.co.uk
+      external_url: https://www.bluesky.co.uk/ibm-notes-domino/
+      output: web
+
+    - title: DominoDeveloper.net
+      external_url: https://dominodeveloper.net
+      output: web
+
+    - title: WWoW.com
+      external_url: http://wwow.com/
+      output: web
 
 
-#Redbooks
-#passguide
+
+#https://domino.ideas.aha.io
+#nice tool
+#pmr debugger
 #domino tech school
 #gatherings / conferences:
-#engage
-#mwlug
-#connect
 #domino4wine
+#virtualbox
 #obtain domino itself for download
 #notes in 9 - video tutorial
-#certification info
 #AHA - current 'ideajam'
 #archived ideajam maybe?
 #showcases
 #notesappstore.com
-

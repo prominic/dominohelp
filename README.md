@@ -1,4 +1,4 @@
-DominoHelp.com - the IBM Lotus Notes / Domino Community Help site.
+http://DominoHelp.com - the IBM Lotus Notes / Domino Community Help site.
 
 This is the source code for the site, and will be hosted on GitHub here:
 https://github.com/prominic/dominohelp

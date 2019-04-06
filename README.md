@@ -21,14 +21,20 @@ A deep gratitude is owed to both the Jekyll community, and to "tomjoht" in parti
 
 Several key people have contributed to the content and are working hard to further the reach of this site inside the community.   I greatly appreciate all of the help and advice provided by:
 
-Jerry Horani, CTO of https://www.vccusa.com and https://www.cmssite.net 
+Jerry Horani, CTO of https://www.vccusa.com and https://www.cmssite.net
+
 Jesse Gallagher, CTO of https://www.iknowsomeguys.com
 
 Key members of the https://Prominic.NET team including:
+
 Doug Robinson
+
 Triston Dixon
+
 Jon Schultz
 
-Thank you all!
+
+
+Your help is greatly appreciated - thank you all!
 
 Justin Hill

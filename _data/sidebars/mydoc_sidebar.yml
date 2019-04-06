@@ -50,7 +50,7 @@ entries:
       output: web
       
 
-  - title: Designer 10.0.1
+  - title: Domino Designer 10.0.1
     output: web
     folderitems:
 
@@ -81,4 +81,133 @@ entries:
     - title: Lotuscript Classes A-Z
       external_url: https://www.ibm.com/support/knowledgecenter/en/SSVRGU_10.0.1/basic/H_4_LOTUSSCRIPT_NOTES_CLASSES_REFERENCE.html
       output: web
+
+    - title: Domino App Dev Wiki (archive)
+      external_url: https://www-10.lotus.com/ldd/ddwiki.nsf/
+      output: web
+
+
+  - title: Get Help for Free
+    output: web
+    folderitems:
+
+    - title: OpenNTF Slack
+      external_url: https://slackin.openntf.org       
+      output: web
       
+    - title: XPages on Stack Overflow
+      external_url: https://stackoverflow.com/questions/tagged/xpages
+      output: web    
+
+    - title: Domino on Stack Overflow
+      external_url: https://stackoverflow.com/questions/tagged/lotus-domino
+      output: web
+
+      subfolders:
+      - title: Archived Notes.Net Forums
+        output: web
+        subfolderitems:
+
+        - title: XPages Forum
+          external_url: http://www-10.lotus.com/ldd/xpagesforum.nsf
+          output: web
+
+        - title: Domino 9 Forum
+          external_url: https://www-10.lotus.com/ldd/ndseforum.nsf
+          output: web
+
+        - title: Domino 8.5 Forum
+          external_url: http://www-10.lotus.com/ldd/nd85forum.nsf/BuildAllThreadedWeb?OpenView
+          output: web
+
+        - title: Domino 8 Forum 
+          external_url: http://www-10.lotus.com/ldd/nd8forum.nsf/BuildAllThreadedWeb?OpenView
+          output: web
+
+        - title: Domino 6 and 7 Forum
+          external_url: http://www-10.lotus.com/ldd/nd6forum.nsf
+          output: web
+
+  - title: IBM Support
+    output: web
+    folderitems:
+
+    - title: IBM Support Tickets
+      external_url: https://www.ibm.com/support/home/
+      output: web    
+ 
+
+  - title: Online Courses
+    output: web
+    folderitems:
+
+    - title: The Learning Company
+      external_url: http://www.tlcc.com    
+      output: web   
+
+    - title: Udemy
+      external_url: https://www.udemy.com/topic/ibm-domino/
+      output: web
+
+    - title: IBM Tech School Webinars
+      external_url: https://www.ibm.com/collaboration/webinars
+      output: web
+
+
+  - title: Books
+    output: web
+    folderitems:
+
+    - title: Domino Classic Web Development
+      external_url: https://www.amazon.com/IBM-Lotus-Domino-Application-Development/dp/1849682402/ref=cm_cr_arp_d_product_top?ie=UTF8
+      output: web  
+
+
+
+  - title: Hire Consultants
+    output: web
+    folderitems:
+
+    - title: Penumbra Group
+      external_url: http://www.penumbragroup.com                    
+      output: web
+
+    - title: I Know Some Guys LLC
+      external_url: https://www.iknowsomeguys.com/
+      output: web
+
+    - title: NashCom
+      external_url: http://www.nashcom.de
+      output: web
+
+    - title: MartinScott
+      external_url: http://martinscott.com
+      output: web
+
+
+  - title: Move to the Cloud
+    output: web
+    folderitems:
+
+    - title: Prominic.NET
+      external_url: https://www.Prominic.NET                    
+      output: web
+
+
+
+#Redbooks
+#passguide
+#domino tech school
+#gatherings / conferences:
+#engage
+#mwlug
+#connect
+#domino4wine
+#obtain domino itself for download
+#notes in 9 - video tutorial
+#certification info
+#AHA - current 'ideajam'
+#archived ideajam maybe?
+#showcases
+#notesappstore.com
+

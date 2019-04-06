@@ -5,27 +5,25 @@ topnav:
   items:
     - title: GitHub
       external_url: https://github.com/prominic/dominohelp
-    - title: Blogs
-      external_url: http://www.planetlotus.org
+#    - title: Blogs
+#      external_url: http://www.planetlotus.org
 
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
       
-    - title: Help
+    - title: Blogs
       folderitems:
 
-        - title: OpenNTF Slack
-          external_url: https://slackin.openntf.org       
-        - title: XPages on Stack Overflow
-          external_url: https://stackoverflow.com/questions/tagged/xpages
-        - title: Domino on Stack Overflow
-          external_url: https://stackoverflow.com/questions/tagged/lotus-domino
-        - title: IBM Support Tickets
-          external_url: https://www.ibm.com/support/home/
-        - title: The Learning Company
-          external_url: http://www.tlcc.com    
+      - title: PlanetLotus
+        external_url: http://www.planetlotus.org
+
+      - title: IBM Collab Solutions Blog
+        external_url: https://www.ibm.com/blogs/collaboration-solutions/
+
+      - title: Jesse Gallagher
+        external_url: https://frostillic.us
 
     - title: Code
       folderitems:   
@@ -41,21 +39,7 @@ topnav_dropdowns:
       folderitems:
         - title: Get Started
           url: /index.html
-        - title: Domino App Dev Wiki (archive)
-          external_url: https://www-10.lotus.com/ldd/ddwiki.nsf/
+
         - title: Wikipedia
           external_url: https://en.wikipedia.org/wiki/IBM_Notes
-          
-    - title: Hire
-      folderitems:
-          
-        - title: Penumbra Group
-          external_url: http://www.penumbragroup.com                    
-        - title: I Know Some Guys LLC
-          external_url: https://www.iknowsomeguys.com/
 
-#     - title: Books
-#       folderitems:
-#     
-#        - title: Amazon
-#          external_url: https://www.amazon.com

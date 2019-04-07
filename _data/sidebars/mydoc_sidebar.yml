@@ -55,7 +55,7 @@ entries:
       output: web
       
 
-  - title: Designer 10.0.1
+  - title: Designer 10.0.1 Docs
     output: web
     folderitems:
 
@@ -89,6 +89,14 @@ entries:
 
     - title: Domino App Dev Wiki (archive)
       external_url: https://www-10.lotus.com/ldd/ddwiki.nsf/
+      output: web
+
+    - title: JNA - Java to C API
+      external_url: https://github.com/klehmann/domino-jna
+      output: web
+
+    - title: Lotuscript to C API
+      external_url: http://www.ls2capi.com
       output: web
 
 
@@ -139,7 +147,31 @@ entries:
 
     - title: IBM Support Tickets
       external_url: https://www.ibm.com/support/home/
-      output: web    
+      output: web
+
+#    - title: Purchase / renew - CleanSlate
+#      external_url: https://www.cleanslatetg.com/ibm/
+#      output: web    
+
+    - title: Using Domino NSD Analyzer
+      external_url: https://www-10.lotus.com/ldd/dominowiki.nsf/dx/Using_the_LND_tool_to_analyze_IBM_Lotus_Notes_and_Domino_hangs_and_crashes
+      output: web
+
+    - title: Get Domino NSD Analyzer
+      external_url: http://www-01.ibm.com/support/docview.wss?uid=swg21272213
+      output: web
+
+    - title: How to re-install Notes client
+      external_url: https://www-01.ibm.com/support/docview.wss?uid=swg21245159
+      output: web
+
+    - title: Using Notes Install Cleanup Utility
+      external_url: https://www.ibm.com/support/knowledgecenter/en/SSKTMJ_9.0.1/admin/inst_nice_use_t.html 
+      output: web
+
+    - title: Get Notes Install Cleanup Utility
+      external_url: http://www-01.ibm.com/support/docview.wss?uid=swg21459714
+      output: web
  
 
   - title: Online Courses
@@ -248,6 +280,14 @@ entries:
       external_url: http://martinscott.com
       output: web
 
+    - title: mindu
+      external_url: https://www.bleedyellow.com/web/web.nsf/id/pa_mindoo_home_en.html
+      output: web
+
+    - title: JustForDomino Companies
+      external_url: http://www.justfordomino.com/products.nsf/CompanyList
+      output: web
+
 
   - title: Conferences & Meetups
     output: web
@@ -261,10 +301,51 @@ entries:
       external_url: https://engage.ug
       output: web
 
+    - title: DNUG
+      external_url: https://dnug.de
+      output: web
+
     - title: IBM Think
       external_url: https://www.ibm.com/events/think/
       output: web
 
+  - title: Development Tools
+    output: web
+    folderitems:
+
+    - title: CIAO! version control
+      external_url: https://www.teamstudio.com/ciao
+      output: web
+
+    - title: NoteMan
+      external_url: http://www.noteman.com
+      output: web
+
+    - title: Ytria
+      external_url: https://www.ytria.com/ezsuite
+      output: web
+
+  - title: Modernization Tools
+    output: web
+    folderitems:
+
+    - title: Application Insights
+      external_url: https://www.panagenda.com/products/applicationinsights/
+      output: web
+
+    - title: DOCOVA
+      external_url: https://www.docova.com
+      output: web
+
+
+
+  - title: Reporting Tools
+    output: web
+    folderitems:
+
+    - title: Darwino
+      external_url: https://www.darwino.com
+      output: web
 
 
   - title: Move to Cloud / Hosting
@@ -293,16 +374,10 @@ entries:
 
 
 
-#https://domino.ideas.aha.io
-#nice tool
-#pmr debugger
-#domino tech school
-#gatherings / conferences:
-#domino4wine
-#virtualbox
-#obtain domino itself for download
+#gartner - marketing
+#C API
+# top OpenNTF projects
+# who's who - additional blogger list?
+# commerical list of companies who make > 50% of revenue from Domino
 #notes in 9 - video tutorial
-#AHA - current 'ideajam'
-#archived ideajam maybe?
 #showcases
-#notesappstore.com

@@ -116,6 +116,14 @@ entries:
       external_url: https://stackoverflow.com/questions/tagged/lotus-domino
       output: web
 
+    - title: USENET Forums
+      external_url: https://groups.google.com/forum/?fromgroups&hl=en#!forumsearch/comp.$20groupware.lotus-notes
+      output: web
+
+    - title: IBM Developer Answers
+      external_url: https://developer.ibm.com/answers/smartspace/collaboration/index.html
+      output: web
+
       subfolders:
       - title: Archived Notes.Net Forums
         output: web
@@ -145,8 +153,16 @@ entries:
     output: web
     folderitems:
 
-    - title: IBM Support Tickets
-      external_url: https://www.ibm.com/support/home/
+    - title: IBM Support Cases
+      external_url: https://www.ibm.com/mysupport/s/?language=en_US
+      output: web
+
+    - title: IBM Collab Support
+      external_url: https://www.ibm.com/support/home/product/C809125L20347R29/Collaboration_Solutions_support_(general)
+      output: web
+
+    - title: IBM Fix Central
+      external_url: https://www.ibm.com/support/fixcentral/?productGroup0=ibm/Lotus
       output: web
 
 #    - title: Purchase / renew - CleanSlate
@@ -195,12 +211,48 @@ entries:
     output: web
     folderitems:
 
+    - title: Bob Balaban Domino & Java
+      external_url: https://www.amazon.com/Programming-Domino-4-6-Java-Balaban/dp/1558515836
+      output: web
+
     - title: Domino Classic Web Development
-      external_url: https://www.amazon.com/IBM-Lotus-Domino-Application-Development/dp/1849682402/ref=cm_cr_arp_d_product_top?ie=UTF8
+      external_url: https://www.amazon.com/IBM-Lotus-Domino-Application-Development/dp/1849682402
       output: web  
 
+    - title: Inside LotusScript
+      external_url: https://www.amazon.com/Inside-LotusScript-Complete-Guide-Programming/dp/1884777481
+      output: web
+
+    - title: LotusScript for Dummies
+      external_url: https://www.amazon.com/Lotus-Script-Dummies-James-Meade/dp/156884638X
+      output: web
+
+    - title: Practical LotusScript
+      external_url: https://www.amazon.com/Practical-LotusScript-Anthony-Patton/dp/1884777767
+      output: web
+
     - title: Survival Guide for Admins
-      external_url: https://www.amazon.com/Survival-Guide-Lotus-Domino-Administrators-ebook/dp/B001UQO3VA/ref=sr_1_4?keywords=ibm+domino&qid=1554593293&s=gateway&sr=8-4
+      external_url: https://www.amazon.com/Survival-Guide-Lotus-Domino-Administrators-ebook/dp/B001UQO3VA
+      output: web
+
+    - title: Teach Yourself LotusScript
+      external_url: https://www.amazon.com/Teach-Yourself-LotusScript-Notes-Domino/dp/1558285601
+      output: web
+
+    - title: Thinking in Java
+      external_url: https://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486
+      output: web
+ 
+    - title: Toolbox Tips
+      external_url: https://www.amazon.com/Lotus-Notes-Developers-Toolbox-Successful/dp/0132214482
+      output: web
+
+    - title: XPages Command Guide
+      external_url: https://www.amazon.com/XPages-Portable-Command-Guide-Application-ebook/dp/B0073DQPZ6
+      output: web
+  
+    - title: XPages Extension Libray
+      external_url: https://www.amazon.com/XPages-Extension-Library-Step-Step-ebook/dp/B0083JCEY0
       output: web
 
 
@@ -284,8 +336,45 @@ entries:
       external_url: https://www.bleedyellow.com/web/web.nsf/id/pa_mindoo_home_en.html
       output: web
 
+    - title: Developi - Serdar Basegmez
+      external_url: http://www.developi.co.uk
+      output: web
+
+    - title: Xceed - Theo Heselmans
+      external_url: http://www.xceed.be
+      output: web
+
     - title: JustForDomino Companies
       external_url: http://www.justfordomino.com/products.nsf/CompanyList
+      output: web
+
+
+  - title: IBM Champions
+    output: web
+    folderitems:
+
+    - title: Wikipedia Champion List
+      external_url: https://en.wikipedia.org/wiki/IBM_Champions                    
+      output: web
+
+    - title: Gabriella Davis
+      external_url: https://www.linkedin.com/in/gabturtle/
+      output: web
+
+    - title: Theo Heselmans
+      external_url: https://www.linkedin.com/in/theoheselmans/
+      output: web
+
+    - title: Julian Robichaux
+      external_url: https://www.linkedin.com/in/julianrobichaux/
+      output: web 
+
+    - title: Paul Withers
+      external_url: https://www.linkedin.com/in/paulswithers/
+      output: web
+
+    - title: Roberto Mazzoni
+      external_url: https://www.linkedin.com/in/mazzoniroberto/
       output: web
 
 
@@ -309,7 +398,7 @@ entries:
       external_url: https://www.ibm.com/events/think/
       output: web
 
-  - title: Development Tools
+  - title: Tools - Development
     output: web
     folderitems:
 
@@ -325,12 +414,17 @@ entries:
       external_url: https://www.ytria.com/ezsuite
       output: web
 
-  - title: Modernization Tools
+
+  - title: Tools - Modernization
     output: web
     folderitems:
 
     - title: Application Insights
       external_url: https://www.panagenda.com/products/applicationinsights/
+      output: web
+
+    - title: Aveedo
+      external_url: https://en.aveedo.com
       output: web
 
     - title: DOCOVA
@@ -339,13 +433,52 @@ entries:
 
 
 
-  - title: Reporting Tools
+  - title: Tools - Reporting & SQL
     output: web
     folderitems:
 
     - title: Darwino
       external_url: https://www.darwino.com
       output: web
+
+    - title: Structure4Notes
+      external_url: http://structure4.com
+      output: web
+
+    - title: Swing PDF Converter
+      external_url: https://www.swingsoftware.com/pdf-converter/overview
+      output: web
+
+
+  - title: Tools - Security
+    output: web
+    folderitems:
+
+    - title: DominoProtect
+      external_url: http://www.bcchub.com/domino-protect/
+      output: web
+
+    - title: PortalGuard
+      external_url: https://www.portalguard.com/domino.html
+      output: web
+
+
+  - title: Tools - WebSphere J2EE
+    output: web
+    folderitems:
+
+    - title: CrossWorlds
+      external_url: https://www.slideshare.net/DanieleVistalli/introducing-crossworlds-for-ibm-domino
+      output: web
+
+    - title: OpenLiberty
+      external_url: https://github.com/OpenNTF/openliberty-domino
+      output: web
+
+    - title: XPages to Java EE series
+      external_url: https://frostillic.us/blog/posts/7C5363F5AFC4DC5B852583B0005809B0
+      output: web
+
 
 
   - title: Move to Cloud / Hosting
@@ -374,10 +507,14 @@ entries:
 
 
 
+#links to old Domino help files?
+#how to contribute updates to the site
 #gartner - marketing
 #C API
 # top OpenNTF projects
 # who's who - additional blogger list?
-# commerical list of companies who make > 50% of revenue from Domino
+# commerical list of companies who make > X% of revenue from Domino or similar metric to determine focus
 #notes in 9 - video tutorial
 #showcases
+
+

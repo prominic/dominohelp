@@ -6,13 +6,13 @@ output: web
 topnav_title: dominohelp.com
 # this appears on the top navigation bar next to the home button
 
-site_title: Notes / Domino Community Help Center
+site_title: IBM Lotus Notes / Domino Community Help Site
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: Prominic.NET, Inc.
 # this appears in the footer
 
-github_editme_path: prominic/dominohelp/blob/gh-pages/
+github_editme_path: prominic/dominohelp/blob/master/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
 
@@ -73,7 +73,7 @@ defaults:
       layout: "page"
       comments: true
       search: true
-      sidebar: home_sidebar
+      sidebar: mydoc_sidebar
       topnav: topnav
   -
     scope:
@@ -93,7 +93,7 @@ defaults:
       layout: "post"
       comments: true
       search: true
-      sidebar: home_sidebar
+      sidebar: mydoc_sidebar
       topnav: topnav
 
 # these are defaults used for the frontmatter for these file types

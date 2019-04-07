@@ -120,6 +120,18 @@ entries:
       external_url: https://groups.google.com/forum/?fromgroups&hl=en#!forumsearch/comp.$20groupware.lotus-notes
       output: web
 
+    - title: LinkedIn Collaboration Group
+      external_url: https://www.linkedin.com/groups/37836/
+      output: web
+
+    - title: LinkedIn Certified Professionals
+      external_url: https://www.linkedin.com/groups/93927/
+      output: web
+
+    - title: LinkedIn Other Related
+      external_url: https://www.linkedin.com/search/results/groups/?keywords=lotus%20notes&origin=SWITCH_SEARCH_VERTICAL
+      output: web
+
     - title: IBM Developer Answers
       external_url: https://developer.ibm.com/answers/smartspace/collaboration/index.html
       output: web
@@ -414,6 +426,21 @@ entries:
       external_url: https://www.ytria.com/ezsuite
       output: web
 
+  - title: Tools - Marketing & CRM
+    output: web
+    folderitems:
+
+    - title: Riva CRM Integration
+      external_url: https://www.rivacrmintegration.com/screenshots/ibm-lotus-notes/
+      output: web
+
+    - title: Visit Intel
+      external_url: https://visitintel.us
+      output: web
+  
+    - title: VMobile
+      external_url: http://www.vigilus.net/website/notes,-mobile-and-web.html
+      output: web
 
   - title: Tools - Modernization
     output: web

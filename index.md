@@ -19,8 +19,11 @@ Some people have been left out who should be referenced in this site.  This is i
 
 We need your help to improve the content of this site, to add the misisng people and content!
 
+## Contribute Content
+
 No coding is necessary -- just a basic understand of:
 * [Markdown](https://www.markdownguide.org/basic-syntax/).  Specifically, this variation of it: [Kramdown](https://kramdown.gettalong.org/quickref.html)
+* Because column alignment is important in Markdown, a good editor such as [CotEditor for Mac](https://itunes.apple.com/us/app/coteditor/id1024640650?mt=12) -- though really any Courier font editor will do, including [NotePad++ for Windows](https://notepad-plus-plus.org)
 * [GitHub Hello World](https://guides.github.com/activities/hello-world/) to edit 'your version' of the site and then issue a 'pull request' for us to merge in your changes.
 * [Documentation theme](https://idratherbewriting.com/documentation-theme-jekyll/) for [Jekyll](https://jekyllrb.com).  This was chosen to enable version control / change tracking and low editing overhead, while also offering a responsive design.
 

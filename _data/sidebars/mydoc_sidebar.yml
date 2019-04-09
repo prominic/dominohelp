@@ -352,16 +352,16 @@ entries:
       external_url: http://www.developi.co.uk
       output: web
 
+    - title: Workflow Studios
+      external_url: http://workflowstudios.com
+      output: web
+
     - title: Xceed - Theo Heselmans
       external_url: http://www.xceed.be
       output: web
 
     - title: JustForDomino Companies
       external_url: http://www.justfordomino.com/products.nsf/CompanyList
-      output: web
-
-    - title: Workflow Studios
-      external_url: http://workflowstudios.com
       output: web
 
 

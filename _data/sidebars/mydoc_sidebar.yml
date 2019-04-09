@@ -360,6 +360,10 @@ entries:
       external_url: http://www.justfordomino.com/products.nsf/CompanyList
       output: web
 
+    - title: Workflow Studios
+      external_url: http://workflowstudios.com
+      output: web
+
 
   - title: IBM Champions
     output: web

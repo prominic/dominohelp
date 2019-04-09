@@ -47,6 +47,9 @@ topnav_dropdowns:
       - title: PlanetLotus
         external_url: http://www.planetlotus.org
 
+      - title: Collaboration Today
+        external_url: https://collaborationtoday.info/
+
       - title: IBM Collab Solutions
         external_url: https://www.ibm.com/blogs/collaboration-solutions/
 

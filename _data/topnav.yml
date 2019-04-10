@@ -138,6 +138,8 @@ topnav_dropdowns:
         external_url: http://www.nsftools.com/tips/
       - title: Codestore
         external_url: http://www.codestore.net  
+      - title: Sample Java DIIOP 
+        external_url: https://www-01.ibm.com/support/docview.wss?uid=swg21994330
           
 
     - title: Download

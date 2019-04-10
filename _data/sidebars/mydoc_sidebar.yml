@@ -280,6 +280,14 @@ entries:
       external_url: http://www.redbooks.ibm.com/abstracts/sg246854.html?Open
       output: web 
 
+    - title: Implementing LEI 6 PDF
+      external_url: http://www.redbooks.ibm.com/redbooks/pdfs/sg246067.pdf
+      output: web
+
+    - title: Performance Optimization
+      external_url: http://secure.martinscott.com/mscblog.nsf/dx/AppPerformance.pdf/$file/AppPerformance.pdf
+      output: web
+
 
   - title: Certification Tests
     output: web
@@ -462,14 +470,35 @@ entries:
       external_url: https://www.docova.com
       output: web
 
-
+    - title: TeamWorkr
+      external_url: https://www.teamworkr.com
+      output: web
 
   - title: Tools - Reporting & SQL
     output: web
     folderitems:
 
+    - title: Aspose MS Office API
+      external_url: https://products.aspose.com/cells/java
+      output: web
+
+    - title: Casahl Replic-Action
+      external_url: https://www.casahl.com/dart-product-suite/replic-action/
+      output: web
+
     - title: Darwino
       external_url: https://www.darwino.com
+      output: web
+
+    - title: DomSQL / JDBC Access
+      external_url: https://www.openntf.org/main.nsf/project.xsp?r=project/JDBC%20Access%20for%20IBM%20Lotus%20Domino
+
+    - title: LEI - Enterprise Integrator
+      external_url: https://www.ibm.com/us-en/marketplace/ibm-enterprise-integrator-for-domino
+      output: web
+
+    - title: POI 4 XPages
+      external_url: https://poi4xpages.openntf.org
       output: web
 
     - title: Structure4Notes
@@ -538,14 +567,13 @@ entries:
 
 
 
-#links to old Domino help files?
+#links to old Domino help files R5 - R8?
 #how to contribute updates to the site
 #gartner - marketing
 #C API
-# top OpenNTF projects
-# who's who - additional blogger list?
-# commerical list of companies who make > X% of revenue from Domino or similar metric to determine focus
-#notes in 9 - video tutorial
-#showcases
-
+#top OpenNTF projects
+#who's who - additional blogger list?
+#commerical list of companies who make > X% of revenue from Domino or similar metric to determine focus
+#notes in 9 - video tutorial links?
+#showcases of businesses / sites built on Domino
 

@@ -100,6 +100,16 @@ entries:
       output: web
 
 
+  - title: Administrator 10.0.1 Docs
+    output: web
+    folderitems:
+
+    - title: Creating a Web Site Rule Doc
+      external_url: https://www.ibm.com/support/knowledgecenter/SSKTMJ_10.0.1/admin/conf_creatingawebsiteruledocument_t.html
+      output: web
+
+
+
   - title: Get Help for Free
     output: web
     folderitems:
@@ -310,7 +320,7 @@ entries:
       output: web
 
 
-  - title: Cetification Help
+  - title: Certification Help
     output: web
     folderitems:
 
@@ -442,6 +452,10 @@ entries:
     output: web
     folderitems:
 
+    - title: InteliDoc
+      external_url: http://www.intelicom.si/en/
+      output: web
+
     - title: Riva CRM Integration
       external_url: https://www.rivacrmintegration.com/screenshots/ibm-lotus-notes/
       output: web
@@ -452,10 +466,6 @@ entries:
   
     - title: VMobile
       external_url: http://www.vigilus.net/website/notes,-mobile-and-web.html
-      output: web
-
-    - title: InteliDoc
-      external_url: http://www.intelicom.si/en,-mobile-and-web.html
       output: web
 
   - title: Tools - Modernization

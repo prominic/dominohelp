@@ -17,17 +17,49 @@ Some people have been left out who should be referenced in this site.  This is i
 * we do not know everyone in the industry
 * we can only read English
 
-We need your help to improve the content of this site, to add the misisng people and content!
+We need your help to improve the content of this site, to add the missing people and content!
 
 ## Contribute Content
 
-No coding is necessary -- just a basic understand of:
+No coding is necessary -- just a basic understanding of:
 * [Markdown](https://www.markdownguide.org/basic-syntax/).  Specifically, this variation of it: [Kramdown](https://kramdown.gettalong.org/quickref.html)
 * Because column alignment is important in Markdown, a good editor such as [CotEditor for Mac](https://itunes.apple.com/us/app/coteditor/id1024640650?mt=12) -- though really any Courier font editor will do, including [NotePad++ for Windows](https://notepad-plus-plus.org)
 * [GitHub Hello World](https://guides.github.com/activities/hello-world/) to edit 'your version' of the site and then issue a 'pull request' for us to merge in your changes.
 * [Documentation theme](https://idratherbewriting.com/documentation-theme-jekyll/) for [Jekyll](https://jekyllrb.com).  This was chosen to enable version control / change tracking and low editing overhead, while also offering a responsive design.
 
 When making pull requests, we ask that you only add information, not remove anything currently.  You can also use the comment system below (Disqus) if you wish to make content suggestions without going through GitHub.
+
+## How to Contribute Content
+
+Contributing content to this site is easy! Simply follow these basic steps:
+
+Login to [Github](https://github.com/) or create an account for yourself.
+
+### Simple changes:
+1. Press the "Edit me" button on the page containing the content you want to update.
+2. You will see a section showing Raw, Blame, History, and a pencil icon button.  Press the pencil icon to edit the page.
+3. Change the content on the page and press the "Propose file change" button at the bottom.
+4. Press the "Create pull request" button.
+5. Leave a comment describing what you changed and press the "Create pull request" button again to finalize the submission.
+6. The maintainers of this site will review and merge your change and re-publish the site -- generally within a day or two.
+7. DONE
+ 
+
+### Complex changes:
+1. Navigate to the source repository for [DominoHelp.com on GitHub](https://github.com/prominic/dominohelp).
+2. Press the "Fork" button.
+3. Press the Clone or download button and use your Git client to clone the repository.
+4. Install [Jekyll](https://jekyllrb.com) on your computer.
+5. Change to the folder you placed the clone into in step 4.
+6. Run "jekyll serve" to enable local preview.
+7. Browse to [Your Local Preview](http://localhost:4000).
+8. Modify the content files locally and refresh your browser to see them (after a 1-2 second automatic regernation delay).  You may want to start with files such as index.md or _data\sidebars\mydoc_sidebar.yml
+9. When you are ready, push your changes back to your fork.
+10. Issue a pull request
+11. The maintainers of this site will review and merge your change and re-publish the site -- generally within a day or two.
+12. DONE
+
+Thank you for contributing to the site!
 
 
 ## End Users

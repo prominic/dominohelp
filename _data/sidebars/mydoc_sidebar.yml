@@ -454,6 +454,10 @@ entries:
       external_url: http://www.vigilus.net/website/notes,-mobile-and-web.html
       output: web
 
+    - title: InteliDoc
+      external_url: http://www.intelicom.si/en,-mobile-and-web.html
+      output: web
+
   - title: Tools - Modernization
     output: web
     folderitems:

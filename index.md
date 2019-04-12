@@ -35,7 +35,7 @@ Contributing content to this site is easy! Simply follow these basic steps:
 
 Login to [Github](https://github.com/) or create an account for yourself.
 
-### Simple changes:
+### Simple changes
 1. Press the "Edit me" button on the page containing the content you want to update.
 2. You will see a section showing Raw, Blame, History, and a pencil icon button.  Press the pencil icon to edit the page.
 3. Change the content on the page and press the "Propose file change" button at the bottom.
@@ -45,12 +45,12 @@ Login to [Github](https://github.com/) or create an account for yourself.
 7. DONE
  
 
-### Complex changes:
+### Complex changes
 1. Navigate to the source repository for [DominoHelp.com on GitHub](https://github.com/prominic/dominohelp).
 2. Press the "Fork" button.
 3. Press the Clone or download button and use your Git client to clone the repository.
 4. Install [Jekyll](https://jekyllrb.com) on your computer.
-5. Change to the folder you placed the clone into in step 4.
+5. Change to the folder you placed the clone into in the previous step.
 6. Run "jekyll serve" to enable local preview.
 7. Browse to [Your Local Preview](http://localhost:4000).
 8. Modify the content files locally and refresh your browser to see them (after a 2-3 second automatic regeneration delay).  You may want to start with files such as index.md or _data\sidebars\mydoc_sidebar.yml

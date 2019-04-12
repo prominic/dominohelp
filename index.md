@@ -17,7 +17,7 @@ Some people have been left out who should be referenced in this site.  This is i
 * we do not know everyone in the industry
 * we can only read English
 
-We need your help to improve the content of this site, to add the misisng people and content!
+We need your help to improve the content of this site, to add the missing people and content!
 
 ## Contribute Content
 

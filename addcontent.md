@@ -42,3 +42,6 @@ Your hello-world repository can be a place where you store ideas, resources, or 
 4. Select **Initialize this repository with a README**.
 
 {% include image.html file="killalljekyll.png" caption="iTerm profile settings to kill all Jekyll" %}
+              
+
+               

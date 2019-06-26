@@ -522,7 +522,10 @@ entries:
     - title: Swing PDF Converter
       external_url: https://www.swingsoftware.com/pdf-converter/overview
       output: web
-
+      
+    - title: Monitoring for IBM Domino
+      external_url: https://cyone.eu/products-and-solutions/ibm-domino-traveler-monitoring/
+      output: web
 
   - title: Tools - Security
     output: web
@@ -535,7 +538,10 @@ entries:
     - title: PortalGuard
       external_url: https://www.portalguard.com/domino.html
       output: web
-
+      
+    - title: 2FA for IBM Domino Web
+      external_url: https://cyone.eu/products-and-solutions/two-factor-authentication/
+      output: web
 
   - title: Tools - WebSphere J2EE
     output: web
